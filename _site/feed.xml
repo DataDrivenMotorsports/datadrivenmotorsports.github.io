@@ -1,1 +1,28 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.0.0">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2020-02-08T15:20:06-07:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Data Driven Motorsport</title><subtitle>Speed, quanitified.</subtitle><author><name>Data Driven Motorsports</name></author><entry><title type="html">The S2000 Modlist</title><link href="http://localhost:4000/s2000/s2000-mod/" rel="alternate" type="text/html" title="The S2000 Modlist" /><published>2020-02-08T00:00:00-07:00</published><updated>2020-02-08T00:00:00-07:00</updated><id>http://localhost:4000/s2000/s2000-mod</id><content type="html" xml:base="http://localhost:4000/s2000/s2000-mod/">&lt;p&gt;Coming soon in full color.&lt;/p&gt;</content><author><name>Karl Taht</name></author><summary type="html">Coming soon in full color.</summary></entry></feed>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.0.0">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2020-02-08T15:48:21-07:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Data Driven Motorsport</title><subtitle>Speed, quanitified.</subtitle><author><name>Data Driven Motorsports</name></author><entry><title type="html">GTA Bound!</title><link href="http://localhost:4000/s2000/shr/gta-bound/" rel="alternate" type="text/html" title="GTA Bound!" /><published>2020-02-08T00:00:00-07:00</published><updated>2020-02-08T00:00:00-07:00</updated><id>http://localhost:4000/s2000/shr/gta-bound</id><content type="html" xml:base="http://localhost:4000/s2000/shr/gta-bound/">&lt;p&gt;&lt;img src=&quot;/images/2020/ridge.jpg&quot; alt=&quot;theridge&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;You heard it folks, Data Driven Motorsports is headed for national competition levels
+at &lt;a href=&quot;https://globaltimeattack.com/events/gta-the-ridge-motorsports-park-2020/&quot;&gt;Global Time Attack, the Ridge&lt;/a&gt; on June 13 and 14. For both of us, this will be 
+our first national-level competition event. We’ve both dabbled around a lot with 
+smaller organizations such as TakeoverNW, where we took home trophies in 2018 and 2019 (check out the times below). The Ridge is an especially wild track, since turn 1 can be hit at
+over 100mph entry speeds. No replacement for just straight balls there. The first
+half of the track is an assortment of double and triple apex corners with lots of elevation to 
+keep it interesting. While the main straight demands power, it’s clear execution
+and keeping up corner speeds will be critical for a winning lap. Check out a Porsche
+GT4 lap for reference, it’s not far off our targets!&lt;/p&gt;
+
+&lt;!-- Courtesy of embedresponsively.com //--&gt;
+&lt;div class=&quot;responsive-video-container&quot;&gt;
+
+  &lt;iframe src=&quot;https://www.youtube-nocookie.com/embed/3tCMlZKPCHc&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+
+&lt;/div&gt;
+
+&lt;p&gt;The real kicker here is, neither Andy nor Karl have been to the Ridge
+before. Andy’s S14 has endured 18 months of solid dev time, in what’s ulimately resulted
+in a 400+whp LS monster. With new suspension and fresh a 295 square set of [Yokohama A052s], he has his eye set on the Limited class win. Meanwhile, Karl has a more conservative goal of hitting a sub-1:55 lap in his NA S2000. It will be a classic battle of big tire, brute V8 power vs an 
+agile, refined JDM icon!  We’ll keep you posted how it goes!&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/2020/throwback.jpg&quot; alt=&quot;timeslip&quot; /&gt;
+Throwback to our first time attack event. Back in 2017, Andy still had a VQ in his S14, 
+and Karl drove an MK7 GTI. Andy clocked 2nd in RWD, only behind an Alfa 4C and an Evo on slicks overall. The GTI didn’t have a bad showing either, beating out an 250whp, 1900lb EG hatch by
+just 1/10th of a second!&lt;/p&gt;</content><author><name>Karl Taht</name></author><summary type="html"></summary></entry><entry><title type="html">The S2000 Modlist</title><link href="http://localhost:4000/s2000/s2000-mod/" rel="alternate" type="text/html" title="The S2000 Modlist" /><published>2020-02-08T00:00:00-07:00</published><updated>2020-02-08T00:00:00-07:00</updated><id>http://localhost:4000/s2000/s2000-mod</id><content type="html" xml:base="http://localhost:4000/s2000/s2000-mod/">&lt;p&gt;Coming soon in full color.&lt;/p&gt;</content><author><name>Karl Taht</name></author><summary type="html">Coming soon in full color.</summary></entry></feed>
