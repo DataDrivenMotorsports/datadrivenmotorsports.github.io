@@ -5,7 +5,7 @@ var store = [{
         "url": "http://localhost:4000/s2000/shr/gta-bound/",
         "teaser":null},{
         "title": "The S2000 Modlist",
-        "excerpt":"Coming soon in full color.   ","categories": ["s2000"],
+        "excerpt":"Karl purchased this S2000 in August of 2019. At $8500, it was somewhat of a steal for a car with just 104K on the clock! However, the car is rebuilt title due to theft, but reclaimed by the same owner. Also…the car looked just about how it does above, minus...","categories": ["s2000"],
         "tags": [],
         "url": "http://localhost:4000/s2000/s2000-mod/",
         "teaser":null}]
