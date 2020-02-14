@@ -1,4 +1,102 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.0.0">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2020-02-08T16:29:52-07:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Data Driven Motorsport</title><subtitle>Speed, quanitified.</subtitle><author><name>Data Driven Motorsports</name></author><entry><title type="html">GTA Bound!</title><link href="http://localhost:4000/s2000/shr/gta-bound/" rel="alternate" type="text/html" title="GTA Bound!" /><published>2020-02-08T00:00:00-07:00</published><updated>2020-02-08T00:00:00-07:00</updated><id>http://localhost:4000/s2000/shr/gta-bound</id><content type="html" xml:base="http://localhost:4000/s2000/shr/gta-bound/">&lt;p&gt;&lt;img src=&quot;/images/2020/ridge.jpg&quot; alt=&quot;theridge&quot; /&gt;&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.0.0">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2020-02-14T09:12:06-07:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Data Driven Motorsport</title><subtitle>Speed, quanitified.</subtitle><author><name>Data Driven Motorsports</name></author><entry><title type="html">Nick Lyle’s Turbo Miata!</title><link href="http://localhost:4000/builds/miata-mod-copy/" rel="alternate" type="text/html" title="Nick Lyle's Turbo Miata!" /><published>2020-02-14T00:00:00-07:00</published><updated>2020-02-14T00:00:00-07:00</updated><id>http://localhost:4000/builds/miata-mod%20copy</id><content type="html" xml:base="http://localhost:4000/builds/miata-mod-copy/">&lt;p&gt;&lt;img src=&quot;/images/builds/nick_miata.jpg&quot; alt=&quot;s2000&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Nick Lyle’s beast of a Miata!&lt;/p&gt;
+
+&lt;h2 id=&quot;engine&quot;&gt;Engine&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;Supertech 84mm 8.6:1 pistons&lt;/li&gt;
+  &lt;li&gt;Manley H Beam rods&lt;/li&gt;
+  &lt;li&gt;Wiseco piston rings&lt;/li&gt;
+  &lt;li&gt;Baffled oil pan&lt;/li&gt;
+  &lt;li&gt;Boundary billet oil pump&lt;/li&gt;
+  &lt;li&gt;ARP Head + Main studs&lt;/li&gt;
+  &lt;li&gt;Supertech titanium double valve springs&lt;/li&gt;
+  &lt;li&gt;Exhintake cam&lt;/li&gt;
+  &lt;li&gt;Toda adjustable cam gear&lt;/li&gt;
+  &lt;li&gt;Supertech +1mm Inconel exhaust valves&lt;/li&gt;
+  &lt;li&gt;Supertech +1mm black nitride intake valves&lt;/li&gt;
+  &lt;li&gt;AWR race motor mounts, 70d&lt;/li&gt;
+  &lt;li&gt;10AN bungs welded to valve cover to large VTA catch can&lt;/li&gt;
+  &lt;li&gt;Toyota coil on plug&lt;/li&gt;
+  &lt;li&gt;BKR7eix plugs&lt;/li&gt;
+  &lt;li&gt;Wasted spark&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;turbo--exhaust&quot;&gt;Turbo / Exhaust&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;Trackspeed Engineering EFR Manifold&lt;/li&gt;
+  &lt;li&gt;Borg Warner EFR 6258 .64 A/R&lt;/li&gt;
+  &lt;li&gt;Turbosmart dual port actuator&lt;/li&gt;
+  &lt;li&gt;MAC 4 port EBC solenoid&lt;/li&gt;
+  &lt;li&gt;3” custom mandrel bent stainless exhaust&lt;/li&gt;
+  &lt;li&gt;Race resonator&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;cooling&quot;&gt;Cooling&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;Trackspeed Engineering 76mm triple pass radiator&lt;/li&gt;
+  &lt;li&gt;Setrab 25 row oil cooler&lt;/li&gt;
+  &lt;li&gt;Precision 350 intercooler&lt;/li&gt;
+  &lt;li&gt;Generic power steering cooler&lt;/li&gt;
+  &lt;li&gt;Singular motorsports hood louvers&lt;/li&gt;
+  &lt;li&gt;Custom ABS undertray&lt;/li&gt;
+  &lt;li&gt;MTuned coolant reroute&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;fuel-and-ecu&quot;&gt;Fuel and ECU&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;Megasquirt MS3&lt;/li&gt;
+  &lt;li&gt;Walbro 255&lt;/li&gt;
+  &lt;li&gt;6 AN PTFE lines&lt;/li&gt;
+  &lt;li&gt;Return fuel conversion&lt;/li&gt;
+  &lt;li&gt;Radium fuel rail&lt;/li&gt;
+  &lt;li&gt;Radium fuel pressure regulator&lt;/li&gt;
+  &lt;li&gt;Radium fuell pressure damper&lt;/li&gt;
+  &lt;li&gt;Radium 6 micron e85 fuel filter&lt;/li&gt;
+  &lt;li&gt;Continental Flex Fuel sensor&lt;/li&gt;
+  &lt;li&gt;Injector Dynamics ID1000&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;interior-and-safety&quot;&gt;Interior and Safety&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;Hard Dog roll bar&lt;/li&gt;
+  &lt;li&gt;Flyin Miata butterfly brace&lt;/li&gt;
+  &lt;li&gt;Delrin door bushings&lt;/li&gt;
+  &lt;li&gt;Sparco Sprint Seats&lt;/li&gt;
+  &lt;li&gt;PCI Seat rails&lt;/li&gt;
+  &lt;li&gt;Sparco 300mm wheel&lt;/li&gt;
+  &lt;li&gt;G Force 6 point harnesses&lt;/li&gt;
+  &lt;li&gt;Custom flat door cards&lt;/li&gt;
+  &lt;li&gt;Innovate MTX-L wideband&lt;/li&gt;
+  &lt;li&gt;VEI gauges: boost, oil pressure, oil temp, water temp, voltage&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;suspension&quot;&gt;Suspension&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;Xida coilovers 800/500 rates&lt;/li&gt;
+  &lt;li&gt;Bauer extended lower ball joints&lt;/li&gt;
+  &lt;li&gt;Flyin Miata front sway bar&lt;/li&gt;
+  &lt;li&gt;Mazdaspeed rear sway bar&lt;/li&gt;
+  &lt;li&gt;Supermiata End Links&lt;/li&gt;
+  &lt;li&gt;Full poly bushings&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;drivetrain&quot;&gt;Drivetrain&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;Mazdaspeed 6sp transmission, Stage 2 build by Walter Motorsports&lt;/li&gt;
+  &lt;li&gt;Clutch Masters FX400&lt;/li&gt;
+  &lt;li&gt;Flyin Miata 13lb flywheel&lt;/li&gt;
+  &lt;li&gt;Miata Roadster short shifter w/ angled extension&lt;/li&gt;
+  &lt;li&gt;Poly differential bushings&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;wheels-and-tires&quot;&gt;Wheels and Tires&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;949 Racing 6ul 15x10+25&lt;/li&gt;
+  &lt;li&gt;ARP studs&lt;/li&gt;
+  &lt;li&gt;Supermiata Lug nuts&lt;/li&gt;
+  &lt;li&gt;BF Goodrich Rival 245/40-15&lt;/li&gt;
+&lt;/ul&gt;</content><author><name>Karl Taht</name></author><summary type="html"></summary></entry><entry><title type="html">GTA Bound!</title><link href="http://localhost:4000/s2000/shr/gta-bound/" rel="alternate" type="text/html" title="GTA Bound!" /><published>2020-02-08T00:00:00-07:00</published><updated>2020-02-08T00:00:00-07:00</updated><id>http://localhost:4000/s2000/shr/gta-bound</id><content type="html" xml:base="http://localhost:4000/s2000/shr/gta-bound/">&lt;p&gt;&lt;img src=&quot;/images/2020/ridge.jpg&quot; alt=&quot;theridge&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;You heard it folks, Data Driven Motorsports is headed for national competition levels
 at &lt;a href=&quot;https://globaltimeattack.com/events/gta-the-ridge-motorsports-park-2020/&quot;&gt;Global Time Attack, the Ridge&lt;/a&gt; on June 13 and 14. For both of us, this will be 
@@ -44,6 +142,7 @@ a not-straight-piped-exhaust, and additional cooling for extended race track ses
   &lt;li&gt;25-row Setrab oil cooler via SakeBomgGarage kit&lt;/li&gt;
   &lt;li&gt;AP2 Valve retainers&lt;/li&gt;
   &lt;li&gt;Hardrace engine mounts&lt;/li&gt;
+  &lt;li&gt;Comptech (CT) Engineering Intake&lt;/li&gt;
   &lt;li&gt;Berk 70mm High Flow Cat&lt;/li&gt;
   &lt;li&gt;HKS Single, 70mm Catback&lt;/li&gt;
   &lt;li&gt;Innovate Transmission Mounts&lt;/li&gt;
